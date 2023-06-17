@@ -5,7 +5,6 @@ import re
 import math
 import types
 
-
 def test_main_1():
     captureOut = io.StringIO()
     sys.stdout = captureOut
